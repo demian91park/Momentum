@@ -6,7 +6,7 @@ Chrome extend app
 * what functions give you
   * To do list
 
-  * Weateher ( this app ask your agree of location , we don't college your infomation, this is local app)
+  * Weateher ( this app ask your agree of location , I don't collect your infomation, this is local app)
 
   * Temperature
 

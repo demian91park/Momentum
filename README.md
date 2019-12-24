@@ -14,4 +14,4 @@ Chrome extend app
 You can ask me any questions 
 [email] (realeap91@gmail.com)
 
-[KAKAO Messenger link](https://open.kakao.com/o/sySVGeQb)
+[You can connect my kakaotalk](https://open.kakao.com/o/sySVGeQb)

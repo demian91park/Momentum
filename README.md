@@ -12,6 +12,6 @@ Chrome extend app
 
 
 You can ask me any questions 
-[email](realeap91@gmail.com)
+[email] (realeap91@gmail.com)
 
 [KAKAO Messenger link](https://open.kakao.com/o/sySVGeQb)
